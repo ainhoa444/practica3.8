@@ -1,0 +1,23 @@
+body {
+    background-color: blanchedalmond;
+}
+.granate {
+    color: darkred;
+}
+p {
+    color: darkred;
+}
+p.inicio {
+    position: relative;
+    text-align: left;
+}
+
+p.medio {
+  position: relative;  
+  text-align: center;
+}
+
+p.final {
+    position: relative;
+    text-align: right;
+}
